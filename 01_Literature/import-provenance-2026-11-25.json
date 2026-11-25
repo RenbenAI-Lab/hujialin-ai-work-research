@@ -1,0 +1,56 @@
+{
+  "imported_on": "2026-11-25",
+  "source": "User supplied three screenshots; metadata checked against publisher/author records",
+  "classification": "Provisional primary theme assigned by assistant; importance and personal rating left blank",
+  "records": [
+    {
+      "id": "celiktutan-2024-acceptability",
+      "doi": "10.1016/j.ijresmar.2024.05.006",
+      "source_url": "https://doi.org/10.1016/j.ijresmar.2024.05.006"
+    },
+    {
+      "id": "doshi-2024-creativity",
+      "doi": "10.1126/sciadv.adn5290",
+      "source_url": "https://doi.org/10.1126/sciadv.adn5290"
+    },
+    {
+      "id": "moller-2026-social-media",
+      "doi": "10.1038/s41598-026-40110-8",
+      "source_url": "https://doi.org/10.1038/s41598-026-40110-8"
+    },
+    {
+      "id": "draxler-2024-ghostwriter",
+      "doi": "10.1145/3637875",
+      "source_url": "https://doi.org/10.1145/3637875"
+    },
+    {
+      "id": "reif-2025-evaluation",
+      "doi": "10.1073/pnas.2426766122",
+      "source_url": "https://doi.org/10.1073/pnas.2426766122"
+    },
+    {
+      "id": "purcell-2026-expectations",
+      "doi": "10.1111/bjop.12727",
+      "source_url": "https://doi.org/10.1111/bjop.12727"
+    },
+    {
+      "id": "zhang-2023-favoritism",
+      "doi": "10.1017/jdm.2023.37",
+      "source_url": "https://doi.org/10.1017/jdm.2023.37"
+    },
+    {
+      "id": "bellaiche-2023-artwork",
+      "doi": "10.1186/s41235-023-00499-6",
+      "source_url": "https://doi.org/10.1186/s41235-023-00499-6"
+    },
+    {
+      "id": "abel-2026-authorship",
+      "doi": "10.1016/j.chbr.2026.101427",
+      "source_url": "https://doi.org/10.1016/j.chbr.2026.101427"
+    }
+  ],
+  "notes": {
+    "purcell-2026-expectations": "Formal issue year 2026; first online 2024-09-04.",
+    "abel-2026-authorship": "Available online 2026-11-05; journal pre-proof at verification."
+  }
+}
