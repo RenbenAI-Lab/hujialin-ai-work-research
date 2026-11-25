@@ -1,0 +1,20 @@
+[
+  {
+    "id": "note-abel-2026-authorship",
+    "title": "AI 作者标签减少了评价次数，但对高昂的创意写作参与影响不大",
+    "theme": "individual",
+    "papers": "abel-2026-authorship",
+    "file": "04_Knowledge_Maps/ai-authorship-labels.md",
+    "content": "",
+    "updatedAt": "2026-11-25T06:04:34.770468+00:00"
+  },
+  {
+    "id": "note-celiktutan-2024-acceptability",
+    "title": "可接受性取决于观者：生成式AI协作中的自我-他者偏见",
+    "theme": "human-ai",
+    "papers": "celiktutan-2024-acceptability",
+    "file": "04_Knowledge_Maps/self-other-bias.md",
+    "content": "",
+    "updatedAt": "2026-11-25T06:04:34.770468+00:00"
+  }
+]

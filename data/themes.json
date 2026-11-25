@@ -1,0 +1,22 @@
+[
+  {
+    "id": "individual",
+    "name": "Individual",
+    "description": "个体层面：认知、能力、身份与体验"
+  },
+  {
+    "id": "tasks-work",
+    "name": "Tasks & Work",
+    "description": "任务与工作层面：任务重构、效率与工作设计"
+  },
+  {
+    "id": "human-ai",
+    "name": "Human-AI Collaboration",
+    "description": "人机协作层面：协作机制、信任与决策"
+  },
+  {
+    "id": "organization",
+    "name": "Organization",
+    "description": "组织层面：组织设计、管理与变革"
+  }
+]
